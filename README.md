@@ -14,7 +14,7 @@ A simple C++ program that logs keyboard input on Windows into a file called `key
 
 ## Build Instructions
 
-Example using g++ on Windows:
+Build With g++ on Windows:
 
 ```bash
 g++ keylogger.cpp -o keylogger.exe
